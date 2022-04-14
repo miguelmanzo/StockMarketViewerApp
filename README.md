@@ -22,4 +22,4 @@ The data is provide by [https://www.alphavantage.co/](https://www.alphavantage.c
 
 ## Screenshot
 
-![Phone Screenshot 2](https://user-images.githubusercontent.com/8432815/163470084-38dc1bbe-01bf-4883-9380-c263f2d56fe6.jpeg)
+![Phone Screenshot 2](https://user-images.githubusercontent.com/8432815/163471644-0ba474f8-176c-4095-bba9-95f72eda520b.png)
